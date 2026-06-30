@@ -210,8 +210,7 @@ Final Year Computer Engineering Student | Aspiring Data Analyst
 
 ### Connect with me
 
-- LinkedIn: *(Add your LinkedIn URL)*
-- GitHub: *(Add your GitHub Profile URL)*
+- LinkedIn: [Anushka Patil]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/anushka-patil-351549347))
 
 ---
 
