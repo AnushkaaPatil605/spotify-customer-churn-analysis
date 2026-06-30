@@ -192,32 +192,6 @@ The dataset was analyzed using Python to identify trends and patterns before bui
 
 ---
 
-# 📷 Project Preview
-
-## Executive Summary
-
-*(Insert Screenshot)*
-
----
-
-## Customer Engagement
-
-*(Insert Screenshot)*
-
----
-
-## Customer Segmentation
-
-*(Insert Screenshot)*
-
----
-
-## Executive Insights
-
-*(Insert Screenshot)*
-
----
-
 # 📌 Future Improvements
 
 - Build a machine learning model to predict customer churn.
