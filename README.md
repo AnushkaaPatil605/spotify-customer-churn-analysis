@@ -104,12 +104,6 @@ Provides an overview of the business with key performance indicators and custome
 - Country Distribution
 - Overall Customer Overview
 
-📷 **Dashboard Screenshot**
-
-> *(Insert Executive Summary screenshot here)*
-
----
-
 ## 🎧 Page 2 – Customer Engagement Analysis
 
 Analyzes customer behavior to understand what drives churn.
@@ -121,12 +115,6 @@ Analyzes customer behavior to understand what drives churn.
 - Support Tickets
 - Days Since Last Login
 - Engagement Level vs Churn
-
-📷 **Dashboard Screenshot**
-
-> *(Insert Customer Engagement screenshot here)*
-
----
 
 ## 👥 Page 3 – Customer Segmentation Analysis
 
@@ -140,16 +128,6 @@ Explores customer segments using advanced Power BI visuals.
 - Customer Segmentation
 - Advanced Business Insights
 
-📷 **Dashboard Screenshot**
-
-> *(Insert Customer Segmentation screenshot here)*
-
----
-
-## 📈 Page 4 – Executive Insights & Recommendations
-
-Summarizes the findings and provides strategic recommendations.
-
 ### Highlights
 
 - High Risk Customer Profile
@@ -157,12 +135,6 @@ Summarizes the findings and provides strategic recommendations.
 - Key Business Insights
 - Business Recommendations
 - Executive Summary
-
-📷 **Dashboard Screenshot**
-
-> *(Insert Executive Insights screenshot here)*
-
----
 
 # 📈 Exploratory Data Analysis
 
