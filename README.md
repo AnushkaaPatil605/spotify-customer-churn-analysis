@@ -210,7 +210,7 @@ Final Year Computer Engineering Student | Aspiring Data Analyst
 
 ### Connect with me
 
-- LinkedIn: [Anushka Patil]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/anushka-patil-351549347))
+- 💼 **LinkedIn:** [Anushka Patil](https://www.linkedin.com/in/anushka-patil-351549347/)
 
 ---
 
