@@ -136,6 +136,8 @@ Explores customer segments using advanced Power BI visuals.
 - Business Recommendations
 - Executive Summary
 
+---
+
 # 📈 Exploratory Data Analysis
 
 The dataset was analyzed using Python to identify trends and patterns before building the dashboard.
